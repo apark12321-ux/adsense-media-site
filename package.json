@@ -1,0 +1,10 @@
+{
+  "name": "adsense-media-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "검색 의도 기반 정적 정보 사이트",
+  "scripts": {
+    "build": "echo static-site"
+  },
+  "license": "UNLICENSED"
+}
