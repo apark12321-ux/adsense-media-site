@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://apark12321-ux.github.io/adsense-media-site/sitemap.xml
